@@ -1,0 +1,25 @@
+{
+  "name": "CordovaVidyoIo",
+  "version": "0.0.1",
+  "description": "Corodva VidyoIo Plugin test",
+  "cordova": {
+    "id": "com.vidyoio.plugin.CordovaVidyoIOPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagdish-sdn/CorodovaVidyoIo.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Jagdish Thakre",
+  "license": "1990",
+  "bugs": {
+    "url": "https://github.com/jagdish-sdn/CorodovaVidyoIo/issues"
+  },
+  "homepage": "https://github.com/jagdish-sdn/CorodovaVidyoIo#readme"
+}
